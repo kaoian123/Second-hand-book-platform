@@ -1,0 +1,478 @@
+{
+  "name": "home_order_detail",
+  "version": 33,
+  "source-key": {
+    "type": "figma",
+    "file": "9xwb5XqmvsHmzxuQtbltYw",
+    "node": "52:2625",
+    "version": "5498452169",
+    "component-id": "50aab87a9dce4e60ea91272feb74c6fcf3c3e7ac"
+  },
+  "default": "home-order-detail",
+  "documentation": "\nhome-order-detail",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "BackArrow"
+      },
+      {
+        "type": "text",
+        "id": "order_detail"
+      },
+      {
+        "type": "group",
+        "id": "detail"
+      },
+      {
+        "type": "group",
+        "id": "send"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 73"
+      },
+      {
+        "type": "vector",
+        "id": "Arrow 1"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 152"
+      },
+      {
+        "type": "text",
+        "id": "book_name"
+      },
+      {
+        "type": "text",
+        "id": "count"
+      },
+      {
+        "type": "text",
+        "id": "seller_name"
+      },
+      {
+        "type": "text",
+        "id": "seller_phone"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 153"
+      },
+      {
+        "type": "text",
+        "id": "send1"
+      }
+    ],
+    "modes": {
+      "home-order-detail": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": false,
+            "children": [
+              "BackArrow",
+              "order_detail",
+              "detail",
+              "send"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            }
+          },
+          {
+            "id": "BackArrow",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 12.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 15.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 42.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 42.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Ellipse 73",
+              "Arrow 1"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "order_detail",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": -1.0
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": -239.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 264.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              }
+            },
+            "text-content": "訂單明細",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align-vertical": "center",
+            "text-size": 61.957183837890625,
+            "line-height": 1.2102272027614835,
+            "typeface": "Inter"
+          },
+          {
+            "id": "detail",
+            "border-radius": 27.90633773803711,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 36.2135009765625
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 173.59799194335938
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 323.335693359375
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 407.947021484375
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Rectangle 152",
+              "book_name",
+              "count",
+              "seller_name",
+              "seller_phone"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "send",
+            "border-radius": 13.953168869018555,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 107.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 625.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 176.9999542236328
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 39.613975524902344
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Rectangle 153",
+              "send1"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Ellipse 73",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 42.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 42.0
+              }
+            },
+            "vector-content": "ellipse_73.svg"
+          },
+          {
+            "id": "Arrow 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": -7.363890465066298
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 26.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 0.0
+              }
+            },
+            "vector-content": "arrow_1.svg"
+          },
+          {
+            "id": "Rectangle 152",
+            "border-radius": 27.90633773803711,
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 323.335693359375
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 407.947021484375
+              }
+            },
+            "vector-content": "rectangle_152.svg"
+          },
+          {
+            "id": "book_name",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": -6.38134765625
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": -127.07150268554688
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 143.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 43.0
+              }
+            },
+            "text-content": "書名：xxx",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align-vertical": "center",
+            "text-size": 27.90633773803711,
+            "line-height": 1.2102272455433198,
+            "typeface": "Inter"
+          },
+          {
+            "id": "count",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": -6.88134765625
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": -44.071502685546875
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 162.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 43.0
+              }
+            },
+            "text-content": "小計：$ xxx",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align-vertical": "center",
+            "text-size": 27.90633773803711,
+            "line-height": 1.2102272455433198,
+            "typeface": "Inter"
+          },
+          {
+            "id": "seller_name",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": -6.38134765625
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": 38.928497314453125
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 167.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 43.0
+              }
+            },
+            "text-content": "賣家：xxx",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align-vertical": "center",
+            "text-size": 27.90633773803711,
+            "line-height": 1.2102272455433198,
+            "typeface": "Inter"
+          },
+          {
+            "id": "seller_phone",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": -6.38134765625
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": 114.42849731445312
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 307.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 28.0
+              }
+            },
+            "text-content": "賣家聯絡方式：xxxx",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align-vertical": "center",
+            "text-size": 27.90633773803711,
+            "line-height": 1.2102272455433198,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Rectangle 153",
+            "border-radius": 13.953168869018555,
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 176.9999542236328
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 39.613975524902344
+              }
+            },
+            "vector-content": "rectangle_153.svg"
+          },
+          {
+            "id": "send1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 1.5973663330078125
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": 0.5353336334228516
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 116.29600524902344
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 21.412960052490234
+              }
+            },
+            "text-content": "確認送出",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align-vertical": "center",
+            "text-size": 27.90633773803711,
+            "line-height": 1.2102272455433198,
+            "typeface": "Inter"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "home-order-detail",
+      "size": {
+        "width": 398.0,
+        "height": 725.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

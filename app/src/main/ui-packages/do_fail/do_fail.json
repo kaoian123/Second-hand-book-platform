@@ -1,0 +1,204 @@
+{
+  "name": "do_fail",
+  "version": 33,
+  "source-key": {
+    "type": "figma",
+    "file": "9xwb5XqmvsHmzxuQtbltYw",
+    "node": "52:2301",
+    "version": "5498494138",
+    "component-id": "c2de1e5cc9bbd413f213d6a33f89b037e1b75e5d"
+  },
+  "default": "do-fail",
+  "documentation": "do-fail",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "text",
+        "id": "fail_text"
+      },
+      {
+        "type": "group",
+        "id": "check"
+      },
+      {
+        "type": "image",
+        "id": "fail"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 11"
+      },
+      {
+        "type": "text",
+        "id": "check1"
+      }
+    ],
+    "modes": {
+      "do-fail": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": false,
+            "children": [
+              "fail_text",
+              "check",
+              "fail"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            }
+          },
+          {
+            "id": "fail_text",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 2.8619842529296875
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": 38.013004302978516
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 295.2332458496094
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 72.31555938720703
+              }
+            },
+            "text-content": "XX失敗",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align-vertical": "center",
+            "text-size": 53.07563781738281,
+            "line-height": 1.2102272188226364,
+            "typeface": "Inter"
+          },
+          {
+            "id": "check",
+            "border-radius": 7.998503684997559,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 83.0950927734375
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 355.509765625
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 266.6167907714844
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 63.988033294677734
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Rectangle 11",
+              "check1"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "fail",
+            "border-radius": 80.01219177246094,
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 2.5202713012695312
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": -119.5
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 143.04054260253906
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 145.0
+              }
+            },
+            "image-content": "fail.png",
+            "scale": "fill"
+          },
+          {
+            "id": "Rectangle 11",
+            "border-radius": 7.998503684997559,
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 266.6167907714844
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 63.988033294677734
+              }
+            },
+            "vector-content": "rectangle_11.svg"
+          },
+          {
+            "id": "check1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 1.1961212158203125
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": -0.3294658660888672
+              }
+            },
+            "text-content": "確認",
+            "overflow": "visible",
+            "text-size": 34.66018295288086,
+            "line-height": 1.210227230829459,
+            "typeface": "Inter"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "do-fail",
+      "size": {
+        "width": 430.0,
+        "height": 500.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
