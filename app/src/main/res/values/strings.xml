@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!--
  Copyright 2023 Google LLC
 
@@ -16,4 +17,8 @@
 
 <resources>
     <string name="app_name">HelloFigma</string>
+=======
+<resources>
+    <string name="app_name">My Application</string>
+>>>>>>> 81d818232e8cb7f2e7f474a5c74495f0baedd7e7
 </resources>

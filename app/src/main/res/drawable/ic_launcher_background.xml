@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <!--
  Copyright 2023 Google LLC
 
@@ -15,6 +16,8 @@
  limitations under the License.
 -->
 
+=======
+>>>>>>> 81d818232e8cb7f2e7f474a5c74495f0baedd7e7
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="108dp"
     android:height="108dp"
