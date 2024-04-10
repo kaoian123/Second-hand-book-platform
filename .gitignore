@@ -1,0 +1,25 @@
+*.iml
+<<<<<<< HEAD
+.DS_STORE
+.gradle
+/.idea/gradle.xml
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/misc.xml
+=======
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+>>>>>>> 81d818232e8cb7f2e7f474a5c74495f0baedd7e7
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties

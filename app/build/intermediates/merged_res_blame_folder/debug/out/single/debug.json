@@ -1,0 +1,778 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_up_navbar_vector_2.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_up_navbar_vector_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_mange_input.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_mange_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_upload_rectangle_144.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_upload_rectangle_144.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_detail_picture.jpeg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_detail_picture.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_member_resetpassword_image_3.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\member_resetpassword_image_3.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-main-60:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_member_login_image_3.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\member_login_image_3.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_homescreen__1.jpeg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\homescreen__1.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_success_success.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_success_success.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_mange_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_mange_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_home_bookdetail_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\home_bookdetail_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_upload_background2.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_upload_background2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_done_line_22.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_done_line_22.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_home_order_detail_arrow_1.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\home_order_detail_arrow_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_history_pic3.jpeg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_history_pic3.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_home_bookdetail_background1.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\home_bookdetail_background1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_history_vector.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_history_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_member_resetpassword_rectangle_3.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\member_resetpassword_rectangle_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_homescreen_background1.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\homescreen_background1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-main-60:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-main-60:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_mange_rectangle_9.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_mange_rectangle_9.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_upload_background3.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_upload_background3.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_up_navbar_input.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_up_navbar_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_mange_logo.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_mange_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_done_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_done_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_homescreen_vector_2.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\homescreen_vector_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-main-60:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\font_relay_inter_extralight.ttf.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\font\\relay_inter_extralight.ttf"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_done_line_23.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_done_line_23.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_up_navbar_logo.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_up_navbar_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_homescreen_background2.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\homescreen_background2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_up_navbar_vector.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_up_navbar_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_side_navbar_user_picture.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_side_navbar_user_picture.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_home_bookdetail_picture.jpeg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\home_bookdetail_picture.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_mange_rectangle_8.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_mange_rectangle_8.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_upload_background4.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_upload_background4.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_homescreen_picture1.jpeg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\homescreen_picture1.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_mange_background2.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_mange_background2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_done_line_24.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_done_line_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_order_detail_arrow_1.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_order_detail_arrow_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_home_bookdetail_background2.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\home_bookdetail_background2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_done_vector.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_done_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_home_bookdetail_background_d1.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\home_bookdetail_background_d1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_done_background2.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_done_background2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_member_signup_ellipse_1.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\member_signup_ellipse_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_home_bookdetail_arrow_1.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\home_bookdetail_arrow_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_upload_background1.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_upload_background1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_homescreen_background3.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\homescreen_background3.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_done_ellipse_1.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_done_ellipse_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_side_navbar_vector_97.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_side_navbar_vector_97.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_homescreen_ellipse_1.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\homescreen_ellipse_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_member_resetpassword_rectangle_4.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\member_resetpassword_rectangle_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_history_line_24.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_history_line_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_done_input.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_done_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_order_detail_ellipse_73.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_order_detail_ellipse_73.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_upload_arrow_1.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_upload_arrow_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_detail_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_detail_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_side_navbar_vector_23.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_side_navbar_vector_23.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_detail_background_s.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_detail_background_s.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_history_line_22.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_history_line_22.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_mange_line_23.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_mange_line_23.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_done_background_se.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_done_background_se.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_detail_background_d.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_detail_background_d.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_history_line_23.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_history_line_23.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_side_navbar_vector_60.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_side_navbar_vector_60.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_fail_check_cross_icons_approve_reject_260nw_2213237735_1.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_fail_check_cross_icons_approve_reject_260nw_2213237735_1.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_side_navbar_vector.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_side_navbar_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_success_success_1.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_success_success_1.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_member_forgetpassword_rectangle_3.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\member_forgetpassword_rectangle_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_mange_picture2.jpeg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_mange_picture2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\font_relay_inter_light.ttf.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\font\\relay_inter_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_member_login_rectangle_3.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\member_login_rectangle_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_history_vector_2.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_history_vector_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_detail_backgrount_i.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_detail_backgrount_i.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_history_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_history_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_side_navbar_image_4.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_side_navbar_image_4.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_upload_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_upload_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_member_resetpassword_back.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\member_resetpassword_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_member_forgetpassword_image_3.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\member_forgetpassword_image_3.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_history_ellipse_1.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_history_ellipse_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_up_navbar_line_22.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_up_navbar_line_22.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_fail_fail.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_fail_fail.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_detail_arrow_1.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_detail_arrow_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_success_check_cross_icons_approve_reject_260nw_2213237735_2.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_success_check_cross_icons_approve_reject_260nw_2213237735_2.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_side_navbar_vector_11.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_side_navbar_vector_11.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_done_background10.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_done_background10.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_homescreen_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\homescreen_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_home_bookdetail_background3.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\home_bookdetail_background3.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_history_rectangle_8.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_history_rectangle_8.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_member_login_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\member_login_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_home_order_number_arrow_1.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\home_order_number_arrow_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_member_login_rectangle_8.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\member_login_rectangle_8.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_mange_line_24.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_mange_line_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_member_forgetpassword_backgrount.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\member_forgetpassword_backgrount.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_side_navbar_vector_78.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_side_navbar_vector_78.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_member_forgetpassword_ellipse_1.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\member_forgetpassword_ellipse_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_side_navbar_vector2.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_side_navbar_vector2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_history_background_se.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_history_background_se.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_upload_ellipse_73.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_upload_ellipse_73.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_history_rectangle_9.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_history_rectangle_9.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_mange_picture.jpeg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_mange_picture.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_homescreen_line_24.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\homescreen_line_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_home_order_number_rectangle_152.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\home_order_number_rectangle_152.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_order_detail_rectangle_152.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_order_detail_rectangle_152.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_detail_background2.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_detail_background2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_history_background2.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_history_background2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-main-60:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_home_order_detail_ellipse_73.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\home_order_detail_ellipse_73.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_up_navbar_line_24.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_up_navbar_line_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_side_navbar_vector3.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_side_navbar_vector3.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_home_order_detail_rectangle_153.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\home_order_detail_rectangle_153.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_mange_ellipse_1.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_mange_ellipse_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-main-60:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_member_signup_rectangle_7.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\member_signup_rectangle_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\font_relay_inter_medium.ttf.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\font\\relay_inter_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_member_forgetpassword_rectangle_7.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\member_forgetpassword_rectangle_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_homescreen_logo.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\homescreen_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_homescreen_line_23.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\homescreen_line_23.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-main-60:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_member_signup_image_3.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\member_signup_image_3.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\font_relay_inter_bold.ttf.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\font\\relay_inter_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\font_relay_inter_extrabold.ttf.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\font\\relay_inter_extrabold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_homescreen_input.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\homescreen_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_order_detail_rectangle_153.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_order_detail_rectangle_153.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_side_navbar_vector4.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_side_navbar_vector4.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_done_logo.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_done_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_home_bookdetail_background_d.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\home_bookdetail_background_d.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_detail_background1.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_detail_background1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_member_signup_rectangle_6.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\member_signup_rectangle_6.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_side_navbar_vector_12.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_side_navbar_vector_12.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_home_order_detail_rectangle_152.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\home_order_detail_rectangle_152.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-main-60:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_up_navbar_line_23.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_up_navbar_line_23.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_done_vector_2.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_done_vector_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_detail_backgrount.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_detail_backgrount.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_member_forgetpassword_rectangle_8.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\member_forgetpassword_rectangle_8.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-main-60:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_member_signup_rectangle_5.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\member_signup_rectangle_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_up_navbar_ellipse_1.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_up_navbar_ellipse_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_home_order_number_ellipse_73.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\home_order_number_ellipse_73.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_done_picture2.jpeg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_done_picture2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-main-60:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_home_bookdetail_ellipse_73.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\home_bookdetail_ellipse_73.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-main-60:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_side_navbar_vector1.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_side_navbar_vector1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_mange_vector.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_mange_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_homescreen_vector.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\homescreen_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_member_login_rectangle_4.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\member_login_rectangle_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_member_signup_rectangle_8.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\member_signup_rectangle_8.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_home_bookdetail_background_s.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\home_bookdetail_background_s.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_member_resetpassword_rectangle_7.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\member_resetpassword_rectangle_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_member_login_ellipse_1.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\member_login_ellipse_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_side_navbar_vector_59.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_side_navbar_vector_59.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_history_background3.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_history_background3.xml"
+    },
+    {
+        "merged": "com.example.hellofigma.app-merged_res-58:/drawable-nodpi_do_fail_fail_1.png.flat",
+        "source": "com.example.hellofigma.app-relay-54:/drawable-nodpi/do_fail_fail_1.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_side_navbar_vector_2.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_side_navbar_vector_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_side_navbar_vector_61.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_side_navbar_vector_61.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_homescreen_background4.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\homescreen_background4.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_home_bookdetail_background_n.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\home_bookdetail_background_n.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_member_signup_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\member_signup_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_member_signup_rectangle_4.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\member_signup_rectangle_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-main-60:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\font_relay_inter_regular.ttf.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\font\\relay_inter_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\font_relay_inter_black.ttf.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\font\\relay_inter_black.ttf"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_mange_background1.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_mange_background1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\font_relay_inter_thin.ttf.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\font\\relay_inter_thin.ttf"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_history_logo.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_history_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_member_resetpassword_ellipse_1.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\member_resetpassword_ellipse_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_fail_rectangle_11.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_fail_rectangle_11.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_member_signup_rectangle_3.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\member_signup_rectangle_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_side_navbar_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_side_navbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_success_rectangle_11.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_success_rectangle_11.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_mange_line_22.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_mange_line_22.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_home_bookdetail_arrow_0.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\home_bookdetail_arrow_0.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_member_signup_rectangle_9.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\member_signup_rectangle_9.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_detail_ellipse_73.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_detail_ellipse_73.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\font_relay_inter_semibold.ttf.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\font\\relay_inter_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_history_background1.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_history_background1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-main-60:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_member_resetpassword_rectangle_8.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\member_resetpassword_rectangle_8.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_side_navbar_vector_96.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_side_navbar_vector_96.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_up_navbar_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_up_navbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_homescreen_line_22.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\homescreen_line_22.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_side_navbar_vector_3.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_side_navbar_vector_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_homescreen__.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\homescreen__.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-main-60:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_home_order_number_rectangle_153.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\home_order_number_rectangle_153.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_member_signup_password_again.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\member_signup_password_again.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_side_navbar_vector5.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_side_navbar_vector5.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_do_side_navbar_rectangle_25.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\do_side_navbar_rectangle_25.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_home_bookdetail_background_s2.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\home_bookdetail_background_s2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_list_history_input.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\list_history_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-merged_res-58:\\drawable-nodpi_upload_book_mange_vector_2.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hellofigma.app-relay-54:\\drawable-nodpi\\upload_book_mange_vector_2.xml"
+    }
+]
