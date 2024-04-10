@@ -1,0 +1,539 @@
+{
+  "name": "list_order_detail",
+  "version": 33,
+  "source-key": {
+    "type": "figma",
+    "file": "9xwb5XqmvsHmzxuQtbltYw",
+    "node": "52:2631",
+    "version": "5498487129",
+    "component-id": "9021e8beebc813c1cc5cef60eae93deeaa82e0d9"
+  },
+  "default": "list-order-detail",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "BackArrow"
+      },
+      {
+        "type": "text",
+        "id": "check"
+      },
+      {
+        "type": "group",
+        "id": "book_detail"
+      },
+      {
+        "type": "group",
+        "id": "send"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 73"
+      },
+      {
+        "type": "vector",
+        "id": "Arrow 1"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 152"
+      },
+      {
+        "type": "group",
+        "id": "OrderInfo"
+      },
+      {
+        "type": "text",
+        "id": "seller"
+      },
+      {
+        "type": "text",
+        "id": "time"
+      },
+      {
+        "type": "text",
+        "id": "price"
+      },
+      {
+        "type": "text",
+        "id": "name"
+      },
+      {
+        "type": "text",
+        "id": "number"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 153"
+      },
+      {
+        "type": "text",
+        "id": "send1"
+      }
+    ],
+    "modes": {
+      "list-order-detail": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": false,
+            "children": [
+              "BackArrow",
+              "check",
+              "book_detail",
+              "send"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            }
+          },
+          {
+            "id": "BackArrow",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 12.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 15.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 42.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 42.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Ellipse 73",
+              "Arrow 1"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "check",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": -1.0
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": -239.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 264.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 65.0
+              }
+            },
+            "text-content": "訂單確認",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align-vertical": "center",
+            "text-size": 61.957183837890625,
+            "line-height": 1.2102272027614835,
+            "typeface": "Inter"
+          },
+          {
+            "id": "book_detail",
+            "border-radius": 27.90633773803711,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 36.213623046875
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 173.5980224609375
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 323.335693359375
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 407.947021484375
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Rectangle 152",
+              "OrderInfo"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "send",
+            "border-radius": 13.953168869018555,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 107.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 625.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 176.9999542236328
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 39.613975524902344
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Rectangle 153",
+              "send1"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Ellipse 73",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 42.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 42.0
+              }
+            },
+            "vector-content": "ellipse_73.svg"
+          },
+          {
+            "id": "Arrow 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": -7.363951500222605
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 26.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 0.0
+              }
+            },
+            "vector-content": "arrow_1.svg"
+          },
+          {
+            "id": "Rectangle 152",
+            "border-radius": 27.90633773803711,
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 323.335693359375
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 407.947021484375
+              }
+            },
+            "vector-content": "rectangle_152.svg"
+          },
+          {
+            "id": "OrderInfo",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 31.786376953125
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 53.4019775390625
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 286.8609313964844
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 299.00006103515625
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "seller",
+              "time",
+              "price",
+              "name",
+              "number"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "seller",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": 126.72852325439453
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 286.8609313964844
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 45.54304504394531
+              }
+            },
+            "text-content": "賣家：xxx",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 25.0,
+            "line-height": 1.171875
+          },
+          {
+            "id": "time",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": 61.38404083251953
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 286.8609313964844
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 45.54304504394531
+              }
+            },
+            "text-content": "訂單成立時間：xx/xx/xx",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 25.0,
+            "line-height": 1.171875
+          },
+          {
+            "id": "price",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": 8.91057014465332
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 286.8609313964844
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 59.40396499633789
+              }
+            },
+            "text-content": "價格：XXX",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 25.0,
+            "line-height": 1.171875
+          },
+          {
+            "id": "name",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": -50.49348258972168
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 286.8609313964844
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 59.40396499633789
+              }
+            },
+            "text-content": "書名：XXX",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 25.0,
+            "line-height": 1.171875
+          },
+          {
+            "id": "number",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": -119.79804801940918
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 286.8609313964844
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 59.40396499633789
+              }
+            },
+            "text-content": "訂單編號：XXXXXXX",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 25.0,
+            "line-height": 1.171875
+          },
+          {
+            "id": "Rectangle 153",
+            "border-radius": 13.953168869018555,
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 176.9999542236328
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 39.613975524902344
+              }
+            },
+            "vector-content": "rectangle_153.svg"
+          },
+          {
+            "id": "send1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 1.5973663330078125
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": 0.5352344512939453
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 116.29600524902344
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 21.412960052490234
+              }
+            },
+            "text-content": "確認",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align-vertical": "center",
+            "text-size": 27.90633773803711,
+            "line-height": 1.2102272455433198,
+            "typeface": "Inter"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "list-order-detail",
+      "size": {
+        "width": 398.0,
+        "height": 725.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

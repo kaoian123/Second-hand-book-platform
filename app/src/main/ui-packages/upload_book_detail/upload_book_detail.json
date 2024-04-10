@@ -1,0 +1,678 @@
+{
+  "name": "upload_book_detail",
+  "version": 33,
+  "source-key": {
+    "type": "figma",
+    "file": "9xwb5XqmvsHmzxuQtbltYw",
+    "node": "52:2628",
+    "version": "5498472687",
+    "component-id": "dba8107d1bf71a9c99328cf12ee911a225b53393"
+  },
+  "default": "upload-book-detail",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "delete"
+      },
+      {
+        "type": "group",
+        "id": "book-information"
+      },
+      {
+        "type": "vector",
+        "id": "Background"
+      },
+      {
+        "type": "text",
+        "id": "delete1"
+      },
+      {
+        "type": "image",
+        "id": "picture"
+      },
+      {
+        "type": "group",
+        "id": "BackArrow"
+      },
+      {
+        "type": "group",
+        "id": "seller-information"
+      },
+      {
+        "type": "group",
+        "id": "introduct"
+      },
+      {
+        "type": "group",
+        "id": "detail"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 73"
+      },
+      {
+        "type": "vector",
+        "id": "Arrow 1"
+      },
+      {
+        "type": "vector",
+        "id": "backgroundS"
+      },
+      {
+        "type": "text",
+        "id": "phoneS"
+      },
+      {
+        "type": "text",
+        "id": "nameS"
+      },
+      {
+        "type": "vector",
+        "id": "backgrountI"
+      },
+      {
+        "type": "text",
+        "id": "detailI"
+      },
+      {
+        "type": "text",
+        "id": "introductI"
+      },
+      {
+        "type": "vector",
+        "id": "backgroundD"
+      },
+      {
+        "type": "text",
+        "id": "nameD"
+      },
+      {
+        "type": "text",
+        "id": "priceD"
+      }
+    ],
+    "modes": {
+      "upload-book-detail": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": false,
+            "children": [
+              "delete",
+              "book-information"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.8901960784313725
+            }
+          },
+          {
+            "id": "delete",
+            "border-radius": 13.953168869018555,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 107.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 853.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 193.25137329101562
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 51.6267204284668
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Background",
+              "delete1"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "book-information",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 430.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 822.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "picture",
+              "BackArrow",
+              "seller-information",
+              "introduct",
+              "detail"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Background",
+            "border-radius": 13.953168869018555,
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 193.25137329101562
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 51.6267204284668
+              }
+            },
+            "vector-content": "background.svg"
+          },
+          {
+            "id": "delete1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 1.7440414428710938
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": 0.6976690292358398
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 126.97383117675781
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 27.906335830688477
+              }
+            },
+            "text-content": "刪除",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align-vertical": "center",
+            "text-size": 27.90633773803711,
+            "line-height": 1.2102272455433198,
+            "typeface": "Inter"
+          },
+          {
+            "id": "picture",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": -234.92759704589844
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 430.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 352.1448059082031
+              }
+            },
+            "image-content": "picture.jpeg",
+            "scale": "cover"
+          },
+          {
+            "id": "BackArrow",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 12.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 15.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 42.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 42.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Ellipse 73",
+              "Arrow 1"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "seller-information",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 695.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 430.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 127.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "backgroundS",
+              "phoneS",
+              "nameS"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "introduct",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 455.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 430.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 222.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "backgrountI",
+              "detailI",
+              "introductI"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "detail",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 370.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 430.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 67.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "backgroundD",
+              "nameD",
+              "priceD"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Ellipse 73",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 42.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 42.0
+              }
+            },
+            "vector-content": "ellipse_73.svg"
+          },
+          {
+            "id": "Arrow 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": -7.363890465066298
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 26.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 0.0
+              }
+            },
+            "vector-content": "arrow_1.svg"
+          },
+          {
+            "id": "backgroundS",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 430.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 127.0
+              }
+            },
+            "vector-content": "background_s.svg"
+          },
+          {
+            "id": "phoneS",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": -98.0
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": 39.5
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 208.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 48.0
+              }
+            },
+            "text-content": "賣家聯絡方式",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 30.0,
+            "line-height": 1.171875
+          },
+          {
+            "id": "nameS",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": -138.0
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": -22.5
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 128.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 46.0
+              }
+            },
+            "text-content": "賣家名稱",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 30.0,
+            "line-height": 1.171875
+          },
+          {
+            "id": "backgrountI",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 430.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 222.0
+              }
+            },
+            "vector-content": "backgrount_i.svg"
+          },
+          {
+            "id": "detailI",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": -138.0
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": 29.811429023742676
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 128.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 21.62285804748535
+              }
+            },
+            "text-content": "書況",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 30.0,
+            "line-height": 1.171875
+          },
+          {
+            "id": "introductI",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": -138.0
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": -82.18857097625732
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 128.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 21.62285804748535
+              }
+            },
+            "text-content": "書本介紹",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 30.0,
+            "line-height": 1.171875
+          },
+          {
+            "id": "backgroundD",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 430.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 67.0
+              }
+            },
+            "vector-content": "background_d.svg"
+          },
+          {
+            "id": "nameD",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": -160.71999740600586
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": 3.5191688537597656
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 82.56000518798828
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 41.64905548095703
+              }
+            },
+            "text-content": "書名",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 30.0,
+            "line-height": 1.171875
+          },
+          {
+            "id": "priceD",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 145.28000259399414
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": 3.5191688537597656
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 82.56000518798828
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 41.64905548095703
+              }
+            },
+            "text-content": "價格",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 30.0,
+            "line-height": 1.171875
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "upload-book-detail",
+      "size": {
+        "width": 430.0,
+        "height": 932.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
